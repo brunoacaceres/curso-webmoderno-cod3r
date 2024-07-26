@@ -1,0 +1,5 @@
+#Comando para executar javascript
+CTRL+ALT+N
+
+#Comando para executar o code no PROMPT
+CMD+SHIFT+P - Procurar por - Shell Command: Install 'code' command in PATH
